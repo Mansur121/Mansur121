@@ -12,7 +12,6 @@ Alongside backend engineering, I'm actively exploring Agentic AI, GenAI, and Mac
 
 -----
 
-
 💻 Java Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🤖 Exploring Agentic AI, GenAI & ML <div>
 👀 Interests: Java, Spring Boot, Microservices, Cloud (AWS/Azure), Agentic AI, GenAI, Machine Learning, Open Source <div>
 🌱 Currently Learning: Spring Boot Microservices, Cloud Engineering, Docker/Kubernetes, AI Agents & LLMs <div>
