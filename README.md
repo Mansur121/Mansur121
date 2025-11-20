@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/Mansur121/profile/blob/56eb6deaf8592d1b7b00f3dd4c3cdb4559d52a2b/waving.gif">, I'm Mansur</h1>
-<h4 align="center">A full stack developer and Interested in DEVOPS and Open Source</h4>
+<h4 align="center">I'm a Java Full Stack Developer passionate about building scalable backend systems using Spring Boot, Microservices, and Cloud (AWS/Azure).  
+Alongside backend engineering, I'm actively exploring Agentic AI, GenAI, and Machine Learning to build intelligent, automated systems.
+</h4>
 </div>
 
 <div align="center">
