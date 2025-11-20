@@ -13,13 +13,13 @@ Alongside backend engineering, I'm actively exploring Agentic AI, GenAI, and Mac
 -----
 
 
-💻 Java Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🤖 Exploring Agentic AI, GenAI & ML \n
-👀 Interests: Java, Spring Boot, Microservices, Cloud (AWS/Azure), Agentic AI, GenAI, Machine Learning, Open Source
-🌱 Currently Learning: Spring Boot Microservices, Cloud Engineering, Docker/Kubernetes, AI Agents & LLMs
-💞️ Looking to Collaborate On: Java/Spring projects, microservices, cloud-native apps, GenAI tools, open-source contributions
-📫 Reach Me At: mansurmujawar121@gmail.com
+💻 Java Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🤖 Exploring Agentic AI, GenAI & ML <div>
+👀 Interests: Java, Spring Boot, Microservices, Cloud (AWS/Azure), Agentic AI, GenAI, Machine Learning, Open Source <div>
+🌱 Currently Learning: Spring Boot Microservices, Cloud Engineering, Docker/Kubernetes, AI Agents & LLMs <div>
+💞️ Looking to Collaborate On: Java/Spring projects, microservices, cloud-native apps, GenAI tools, open-source contributions <div>
+📫 Reach Me At: mansurmujawar121@gmail.com <div>
  (or give me your real email)
-📱 Other Interests: automation, APIs, backend architecture,System Design
+📱 Other Interests: automation, APIs, backend architecture,System Design <div>
 <!---
 Mansur121/Mansur121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
