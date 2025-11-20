@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="grid-snake.svg"
+  <img src="https://github.com/Mansur121/profile/blob/56eb6deaf8592d1b7b00f3dd4c3cdb4559d52a2b/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
